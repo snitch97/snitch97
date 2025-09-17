@@ -73,7 +73,7 @@
 </div>
 
 <div align='center' style="display: flex;">
-  <img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=luxetidal&show_icons=true&theme=gotham" />
+  <img align='left' height='190' alt='total' src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxetidal&show_icons=true&theme=radical)" />
     
   <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxetidal&layout=compact&theme=gotham" />
 </div>
