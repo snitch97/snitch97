@@ -49,9 +49,6 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=luxetidal&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="150"/>
-
 <!-- GitHub Stats Cards -->
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=luxetidal&show_icons=true&theme=default&hide_border=false" height="165" alt="GitHub Stats"/>
