@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Runs every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -16,10 +16,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (with private contributions)
         uses: Platane/snk@v3
         with:
           github_user_name: luxetidal
+          github_token: ${{ secrets.PAT_LUXETIDAL }} 
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake Animation to output branch
