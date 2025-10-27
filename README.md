@@ -59,7 +59,7 @@
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luxetidal/luxetidal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/luxetidal/luxetidal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ## 🤝 Connect & Follow
