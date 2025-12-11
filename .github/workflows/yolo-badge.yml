@@ -1,4 +1,4 @@
-name: YOLO Merge Detector
+name: YOLO Badge
 
 on:
   pull_request:
