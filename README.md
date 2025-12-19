@@ -95,8 +95,8 @@
       <br>Redux
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-      <br>React Native
+      <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" />
+      <br>D3.js
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
@@ -188,5 +188,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
 </p>
+
 
 
